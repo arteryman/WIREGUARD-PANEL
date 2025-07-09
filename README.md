@@ -18,7 +18,7 @@
 
 کافیه لینک زیر رو در **مرورگر گوشی** خودتون باز کنید و مراحل ساخت کانفیگ رو انجام بدید:
 
-🔗 **[ورود به پنل ساخت کانفیگ](https://arteryman.github.io/WIREGUARD-PANEL/WIREGUARDvip4.html)**
+🔗 **[ورود به پنل ساخت کانفیگ](https://arteryman.github.io/WIREGUARD-PANEL/WIREGUARD-PANEL.html)**
 
 ---
 
